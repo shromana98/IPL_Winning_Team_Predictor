@@ -20,4 +20,5 @@ Model building: I have Used Logistic Regression algorithm to predict probability
 Prediction and Evaluation: The model is tested. Accuracy  score of the model is 80%.
 
 
-One of the key highlights of this project is its user-friendly interface, which allows cricket enthusiasts to interact with the predictor effortlessly. I have deployed the project using Streamlit, a Python library for building web applications. Through a web interface, users can input the necessary information such as team names, venue, innings, overs, runs, and wickets. With a single click, the predictor provides an estimated score based on the current match situation
+# key highlights:
+It has user-friendly interface, which allows cricket enthusiasts to interact with the predictor effortlessly. I have deployed the project using Streamlit, a Python library for building web applications. Through a web interface, users can input the necessary information such as team names, venue, innings, overs, runs, and wickets. With a single click, the predictor provides the probability of winning of both the teams.
